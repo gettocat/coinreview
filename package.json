@@ -1,0 +1,26 @@
+{
+    "name": "coinreview_example",
+    "version": "0.0.1",
+    "description": "Example crypto node",
+    "main": "index.js",
+    "repository": "https://github.com/gettocat/coinreview",
+    "homepage": "https://t.me/coinreview",
+    "keywords": [
+        "blockchain",
+        "p2p"
+    ],
+    "dependencies": {
+        "base-58": "^0.0.1",
+        "bitpony": "^0.0.1",
+        "bn.js": "^4.11.8",
+        "elliptic": "^6.5.1",
+        "hash.js": "^1.1.3",
+        "int64-buffer": "^0.1.9",
+        "consensusjs": "^0.0.14",
+        "bitowl": "^0.0.2"
+    },
+    "author": {
+        "name": "Nanocat <gettocat@github.com>"
+    },
+    "license": "MIT"
+}
